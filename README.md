@@ -1,2 +1,2 @@
-# bijujacob.github.io
+# biju-jacob.github.io
 My repository
